@@ -6,8 +6,6 @@
 
 This is an automated API Security Testing Tool built with **Python** and **Flask**, designed to scan APIs for common security vulnerabilities like **SQL Injection**, **XSS (Cross-Site Scripting)**, and **CSRF (Cross-Site Request Forgery)**.
 
-## 🖼️ Demo
-
 ### 🖼️ Demo
 
 ![API Security Scanner - Screenshot 1](API_SCANNER.png)  
