@@ -1,0 +1,172 @@
+[
+    {
+        "timestamp": "2025-04-18 21:32:16",
+        "url": "https://www.zabursaries.co.za/",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:38:01",
+        "url": "https://www.zabursaries.co.za/",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:39:54",
+        "url": "https://www.zabursaries.co.za/",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:46:15",
+        "url": "https://www.youtube.com/",
+        "results": {
+            "SQL Injection": "No SQL Injection vulnerability detected.",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:21",
+        "url": "yep",
+        "results": {
+            "SQL Injection": "Error testing SQL Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "XSS": "Error testing XSS: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "CSRF": "Error testing CSRF: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "Command Injection": "Error testing Command Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?"
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:22",
+        "url": "yep",
+        "results": {
+            "SQL Injection": "Error testing SQL Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "XSS": "Error testing XSS: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "CSRF": "Error testing CSRF: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "Command Injection": "Error testing Command Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?"
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:23",
+        "url": "yep",
+        "results": {
+            "SQL Injection": "Error testing SQL Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "XSS": "Error testing XSS: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "CSRF": "Error testing CSRF: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "Command Injection": "Error testing Command Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?"
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:24",
+        "url": "yep",
+        "results": {
+            "SQL Injection": "Error testing SQL Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "XSS": "Error testing XSS: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "CSRF": "Error testing CSRF: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "Command Injection": "Error testing Command Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?"
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:24",
+        "url": "yep",
+        "results": {
+            "SQL Injection": "Error testing SQL Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "XSS": "Error testing XSS: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "CSRF": "Error testing CSRF: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "Command Injection": "Error testing Command Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?"
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:24",
+        "url": "yep",
+        "results": {
+            "SQL Injection": "Error testing SQL Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "XSS": "Error testing XSS: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "CSRF": "Error testing CSRF: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "Command Injection": "Error testing Command Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?"
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:25",
+        "url": "yep",
+        "results": {
+            "SQL Injection": "Error testing SQL Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "XSS": "Error testing XSS: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "CSRF": "Error testing CSRF: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?",
+            "Command Injection": "Error testing Command Injection: Invalid URL 'yep': No scheme supplied. Perhaps you meant https://yep?"
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:47",
+        "url": "http://127.0.0.1:5000/",
+        "results": {
+            "SQL Injection": "No SQL Injection vulnerability detected.",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:48:49",
+        "url": "http://127.0.0.1:5000/",
+        "results": {
+            "SQL Injection": "No SQL Injection vulnerability detected.",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 21:49:12",
+        "url": "https://www.youtube.com/",
+        "results": {
+            "SQL Injection": "No SQL Injection vulnerability detected.",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 22:01:45",
+        "url": "https://www.zabursaries.co.za/",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 22:07:05",
+        "url": "https://web.whatsapp.com/",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-18 22:07:23",
+        "url": "https://www.zabursaries.co.za/",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    }
+]

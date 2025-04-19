@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>API Security Scanner</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-xl font-semibold mb-4 text-center"><span class="highlight">API</span> Security Scanner</h1>
+        <form id="scanForm">
+            <input type="text" style="border: 1px solid gray; padding: 8px 16px; border-radius: 6px; cursor: pointer;" id="urlInput" placeholder="🔒 Enter API URL to scan..." required>
+            <button type="submit" style="border: 1px solid gray; padding: 8px 16px; border-radius: 6px; cursor: pointer;">
+                🚀 Scan Now
+              </button>
+              
+        </form>
+        <div id="results" class="hidden">
+            <h2>Scan Results</h2>
+            <ul id="resultsList"></ul>
+            <a id="downloadLink" class="button hidden" download>📄 Download PDF Report</a>
+        </div>
+    </div>
+
+<!-- API Scanner Description -->
+<div class="info-section">
+    <h3 class="text-center text-xl font-semibold mt-6">🔍 What This Scanner Does</h3>
+    <p>This tool performs security scans on public API endpoints to detect common vulnerabilities like SQL Injection, Cross-Site Scripting (XSS), and CSRF. It sends crafted payloads to test input validation, responses, and security headers. Upon completion, it generates a detailed report for developers and security professionals.</p>
+</div>
+
+<!-- Project Info Section -->
+
+
+<!-- Connect With Me Card -->
+
+<div class="max-w-md mx-auto mt-8 p-4 border rounded-lg shadow-md">
+    <h2 class="text-xl font-semibold mb-4 text-center">Connect With Me</h2>
+    
+    <div class="flex justify-center space-x-8">
+
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/vusi-kunene-matlou" target="_blank" class="flex flex-col items-center text-blue-700 hover:text-blue-800">
+        <i class="fab fa-linkedin fa-2x"></i>
+        <span class="mt-1 text-sm">LinkedIn</span>
+      </a>
+      
+      <!-- GitHub -->
+      <a href="https://github.com/Vusi-Kunene-Matlou" target="_blank" class="flex flex-col items-center text-gray-800 hover:text-black">
+        <i class="fab fa-github fa-2x"></i>
+        <span class="mt-1 text-sm">GitHub</span>
+      </a>
+      
+      <!-- Website -->
+      <a href="https://vusi-kunene-matlou.github.io/" target="_blank" class="flex flex-col items-center text-green-600 hover:text-green-700">
+        <i class="fas fa-globe fa-2x"></i>
+        <span class="mt-1 text-sm">Website</span>
+      </a>
+  
+    </div>
+  </div>
+  
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
