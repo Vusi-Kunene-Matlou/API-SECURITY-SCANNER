@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-lightgrey)
+
 # 🛡️ API Security Scanner
 
 This is an automated API Security Testing Tool built with **Python** and **Flask**, designed to scan APIs for common security vulnerabilities like **SQL Injection**, **XSS (Cross-Site Scripting)**, and **CSRF (Cross-Site Request Forgery)**.
