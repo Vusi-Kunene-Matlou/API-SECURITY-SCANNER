@@ -188,5 +188,25 @@
             "CSRF": "No CSRF vulnerability detected.",
             "Command Injection": "No Command Injection vulnerability detected."
         }
+    },
+    {
+        "timestamp": "2025-04-19 22:09:19",
+        "url": "https://myeduvos.com/jobs",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
+    },
+    {
+        "timestamp": "2025-04-19 22:09:41",
+        "url": "https://www.zabursaries.co.za/",
+        "results": {
+            "SQL Injection": "Possible SQL Injection detected!",
+            "XSS": "No XSS vulnerability detected.",
+            "CSRF": "No CSRF vulnerability detected.",
+            "Command Injection": "No Command Injection vulnerability detected."
+        }
     }
 ]
