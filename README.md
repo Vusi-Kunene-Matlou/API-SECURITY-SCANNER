@@ -8,7 +8,7 @@ This is an automated API Security Testing Tool built with **Python** and **Flask
 
 ## 🖼️ Demo
 
-![API Security Scanner in action](API SCANNER.mp4)
+![API Security Scanner in action]("API SCANNER.mp4")
 
 
 ## 📦 Features
