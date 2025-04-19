@@ -1,5 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/Vusi-Kunene-Matlou/API-SECURITY-SCANNER?style=social)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-lightgrey)
 
 # 🛡️ API Security Scanner
