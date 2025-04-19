@@ -8,7 +8,14 @@ This is an automated API Security Testing Tool built with **Python** and **Flask
 
 ## 🖼️ Demo
 
-![API Security Scanner in action]("API SCANNER.mp4")
+### 🖼️ Demo
+
+![API Security Scanner - Screenshot 1](API_SCANNER.png)  
+*Home interface of the API Security Scanner*
+
+![API Security Scanner - Screenshot 2](API_SCANNER2.png)  
+*Example of a SQL Injection test result*
+
 
 
 ## 📦 Features
